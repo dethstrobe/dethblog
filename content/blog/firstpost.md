@@ -1,25 +1,15 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
-tags: another tag
+title: The Starting Point.
+description: First post on the blog and random incoherent thoughts.
+date: 2025-01-05
+tags: self
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+First post setting up the blog.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+It's powered by Eleventy because I didn't need a non-static website, and I know enough about coding that using markdown instead of something like wordpress sounded cool to me.
 
-## Section Header
+I'm not quite clear what I'm going to make of this site just yet. Maybe musing on agile software development, all the little random non-sense things I've learned in my time in the tech space, maybe just random things that interest me, or maybe just a place to talk about myself and my journey on how I got here.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+I think it'd be kind of cool to make a slight game out of this site, but I'm not clear what that'd be. I guess it could also be a demo site and a place to host all my little front end experiments over the years.
 
-```diff-js
- // this is a command
- function myCommand() {
-+  let counter = 0;
--  let counter = 1;
-   counter++;
- }
-
- // Test with a line break above this line.
- console.log('Test');
-```
+Anyway, hopefully I got a bit more time to figure what to do this.
