@@ -6,6 +6,8 @@ const eleventyNavigation = {
 ---
 # About
 
+<img src="./img/selfy.jpg" alt="photo of William Johnson aka dethstrobe aka the dude who this about page is about">
+
 Hello, you might be wondering who is this man of mystery?
 
 My name is William Johnson. I go by the handle *dethstrobe* on the interwebs (you might have heard of it, you're on it now.)
