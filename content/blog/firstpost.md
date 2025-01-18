@@ -12,4 +12,4 @@ I'm not quite clear what I'm going to make of this site just yet. Maybe musing o
 
 I think it'd be kind of cool to make a slight game out of this site, but I'm not clear what that'd be. I guess it could also be a demo site and a place to host all my little front end experiments over the years.
 
-Anyway, hopefully I got a bit more time to figure what to do this.
+Anyway, hopefully I got a bit more time to figure out what to do with this.
