@@ -9,7 +9,7 @@ Full disclosure: this is not actually good advice that'd have helped me that muc
 So, I've been doing this software thing for a little while now (13 years, I guess?). So with the awesome power of hindsight, let me give you some sagely advice in one of them listicles that the Google algorithm likes to rank high on the results page. This is some relatively generic advice I've picked up over the years, but I've found it to hold pretty true.
 
 ## 1. Just look at the damn answer
-So when I started to learn Javascript, I tried to use working through the coding problems in [Eloquent Javascript](https://eloquentjavascript.net/) (it was the 3rd edition at the time) but I was a complete newbie. I didn't know browser APIs (I used jQuery that abstracted all that way from me at the time), let along I just barely knew the syntax on how to write basic JS.
+So when I started to learn Javascript, I tried to use working through the coding problems in [Eloquent Javascript](https://eloquentjavascript.net/) (it was the 3rd edition at the time) but I was a complete newbie. I didn't know browser APIs (I used jQuery that abstracted all that way from me at the time), let alone I just barely knew the syntax on how to write basic JS.
 
 Anyway, at some point in time, I gave up and just looked at the answer and I was able to learn and level up much faster.
 
