@@ -9,7 +9,7 @@ Full disclosure: this is not actually good advice that'd have helped me that muc
 So, I've been doing this software thing for a little while now (13 years, I guess?). So with the awesome power of hindsight, let me give you some sagely advice in one of them listicles that the Google algorithm likes to rank high on the results page. This is some relatively generic advice I've picked up over the years, but I've found it to hold pretty true.
 
 ## 1. Just look at the damn answer
-So when I started to learn Javascript, I tried to use working through the coding problems in (Eloquent Javascript)[https://eloquentjavascript.net/] (it was the 3rd edition at the time) but I was a complete newbie. I didn't know browser APIs (I used jQuery that abstracted all that way from me at the time), let along I just barely knew the syntax on how to write basic JS.
+So when I started to learn Javascript, I tried to use working through the coding problems in [Eloquent Javascript](https://eloquentjavascript.net/) (it was the 3rd edition at the time) but I was a complete newbie. I didn't know browser APIs (I used jQuery that abstracted all that way from me at the time), let along I just barely knew the syntax on how to write basic JS.
 
 Anyway, at some point in time, I gave up and just looked at the answer and I was able to learn and level up much faster.
 
@@ -19,7 +19,7 @@ So to learn those more advance concepts like sliding window, making a hashmap, o
 ## 2. Time box the pain
 Going back to #1, I am not a genius. If something is hard for you now. Rage quit it and try something else, or just revisit a problem later.
 
-As a real world example, (OMA3)[https://oma3.vercel.app/] for a VERY long time had a 404 problem if you tried to refresh the site on anything other than the home page. I created (this discussion)[https://github.com/vercel/next.js/discussions/21235] in 2021 and found the solution for it in 2024 while trying to fix an unrelated problem. I spent a large amount of time trying to solve this issue. I knew it was some kind of configuration issue, I assumed it was a problem on the vercel side, since it worked as intended locally. And it technically was. But trying to find which thing was causing it was not a trivial matter since my set up was a bit unconventional.
+As a real world example, [OMA3](https://oma3.vercel.app/) for a VERY long time had a 404 problem if you tried to refresh the site on anything other than the home page. I created [this discussion](https://github.com/vercel/next.js/discussions/21235) in 2021 and found the solution for it in 2024 while trying to fix an unrelated problem. I spent a large amount of time trying to solve this issue. I knew it was some kind of configuration issue, I assumed it was a problem on the vercel side, since it worked as intended locally. And it technically was. But trying to find which thing was causing it was not a trivial matter since my set up was a bit unconventional.
 
 Going back to leetcode, if you can't solve a problem in 30 minutes, or you quite literally have no concept what to do. Just look up the answer. Ain't nobody going to hold it against a newbie not knowing the answer.
 
