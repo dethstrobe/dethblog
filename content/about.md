@@ -12,6 +12,6 @@ Hello, you might be wondering who is this man of mystery?
 
 My name is William Johnson. I go by the handle *dethstrobe* on the interwebs (you might have heard of it, you're on it now.)
 
-For the most part my illustrious career has been remaking the same hobby app like 3 or 4 times (a [shadowrun character generator](https://github.com/HeyOmae)), and working at large faceless mega corporations to be yet another cog in the capotalist machine. But did you know, I listen to a lot of really high BPM songs on [soudcloud](https://soundcloud.com/dethstrobe/likes)? True story.
+For the most part my illustrious career has been remaking the same hobby app like 3 or 4 times (a [shadowrun character generator](https://github.com/HeyOmae)), and working at large faceless mega corporations to be yet another cog in the capitalist machine. But did you know, I listen to a lot of really high BPM songs on [soundcloud](https://soundcloud.com/dethstrobe/likes)? True story.
 
-Anyway, thanks for stopping by. Feel free to hit me up on the [reddits](https://www.reddit.com/u/dethstrobe/) or the (formually knowns as) [twitters](https://twitter.com/dethstrobe).
+Anyway, thanks for stopping by. Feel free to hit me up on the [reddits](https://www.reddit.com/u/dethstrobe/) or the (formally knowns as) [twitters](https://twitter.com/dethstrobe).
