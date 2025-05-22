@@ -2,7 +2,7 @@
 title: Outdated JSX Transform in NextJS Tests.
 description: A week of investigating a strange warning in my test suites that I know shouldn't be there.
 date: 2025-02-28
-tags: nextjs, jest, babel, testing
+tags: [nextjs, jest, babel, testing]
 ---
 
 A little while ago I upgraded React to v19 in [OMA3](https://github.com/HeyOmae/OMA3) and I started to see this warning pop up in my terminal when I ran my tests.
