@@ -14,4 +14,4 @@ My name is William Johnson. I go by the handle *dethstrobe* on the interwebs (yo
 
 For the most part my illustrious career has been remaking the same hobby app like 3 or 4 times (a [shadowrun character generator](https://github.com/HeyOmae)), and working at large faceless mega corporations to be yet another cog in the capitalist machine. But did you know, I listen to a lot of really high BPM songs on [soundcloud](https://soundcloud.com/dethstrobe/likes)? True story.
 
-Anyway, thanks for stopping by. Feel free to hit me up on the [reddits](https://www.reddit.com/u/dethstrobe/) or the (formally knowns as) [twitters](https://twitter.com/dethstrobe).
+Anyway, thanks for stopping by. Feel free to hit me up on the [reddits](https://www.reddit.com/u/dethstrobe/) or the (formally knowns as) [twitters](https://twitter.com/dethstrobe) or on the [linkedins](https://www.linkedin.com/in/williamhgjohnson/).
