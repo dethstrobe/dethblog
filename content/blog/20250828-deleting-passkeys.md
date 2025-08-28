@@ -1,7 +1,7 @@
 ---
 title: "How to delete a passkey on Chrome."
 description: Find out where the hell passkeys are kept
-date: 2025-05-28
+date: 2025-08-28
 tags: [Google Chrome, passkeys, passkey management, Chrome, MacOS]
 ---
 Let's say you're developing a site on localhost, like you do. And you're using passkeys, because they're said to be more secure, spoof proof, phish proof, the future of web authentication, etc etc.
