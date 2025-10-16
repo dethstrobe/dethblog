@@ -70,7 +70,7 @@ Compensation will be a formula. So everyone will know what everyone else is maki
 Yearly pitch new ideas contest and vote by employees to help propose and shape the direction of the co-op. Followed by a lean startup to test the viability of the pitch for a few months where it will be measured and validated to see if the co-op should invest more into it, or pivot it, or just kill it and move on.
 
 ### Knowledge is Power
-One of the reasons that I personally love XP is the hands-on mentorship you get while working. If you want to know how I see XP working, you can check out this article I wrote.
+One of the reasons that I personally love XP is the hands-on mentorship you get while working. If you want to know how I see XP working, you can check out [this](../20250611-a-better-way-to-work/index.md) article I wrote.
 
 So I’m thinking, pair on everything. Not just programming, but also even product management, and design. And take it even further with sales, marketing, leadership, operations & infrastructure, security, data science, customer support, finance, and people operations, and legal (with some caveats). And not only do we pair, but we also rotate members between these roles to make more well balanced employees that have a systemic view of the company and the problems to bring new insights and solutions.
 
